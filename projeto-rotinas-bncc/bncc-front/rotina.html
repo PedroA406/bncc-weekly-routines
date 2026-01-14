@@ -1,0 +1,101 @@
+<!DOCTYPE html> 
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>iLove Rotinas BNCC </title>
+  <link rel="stylesheet" href="rotina.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header class="top">
+      <h1>Gerador de Rotinas Semanais — BNCC</h1>
+      <div class="muted">6º ao 9º ano • Sugestões automáticas</div>
+    </header>
+
+    <div class="grid">
+      <!-- Formulário -->
+      <div class="panel">
+  <label for="escola">Nome da Escola</label>
+    <input type="text" id="escola" placeholder="Digite o nome da escola" />
+
+    <label for="professor">Nome do Professor</label>
+    <input type="text" id="professor" placeholder="Digite o nome do professor" />
+
+    <label for="periodo">Período da Rotina</label>
+    <input type="date" id="periodo" />
+
+        <h2>Selecione a turma</h2>
+        <form id="formRotina">
+          <div>
+            <label for="ano">Ano / Turma</label>
+            <select id="ano" required>
+              <option value="">Selecione...</option>
+              <option value="6">6º Ano</option>
+              <option value="7">7º Ano</option>
+              <option value="8">8º Ano</option>
+              <option value="9">9º Ano</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="bimestre">Bimestre</label>
+            <select id="bimestre" required>
+              <option value="">Selecione...</option>
+              <option value="1">1º Bimestre</option>
+              <option value="2">2º Bimestre</option>
+              <option value="3">3º Bimestre</option>
+              <option value="4">4º Bimestre</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="semana">Semana do bimestre</label>
+            <select id="semana" required>
+              <option value="">Selecione...</option>
+              <option value="1">Semana 1</option>
+              <option value="2">Semana 2</option>
+              <option value="3">Semana 3</option>
+              <option value="4">Semana 4</option>
+              <option value="5">Semana 5</option>
+              <option value="6">Semana 6</option>
+              <option value="7">Semana 7</option>
+              <option value="8">Semana 8</option>
+            </select>
+          </div>
+
+          <div class="row">
+            <button type="submit" class="primary" id="btnGerar">Gerar Rotina</button>
+            <button type="button" id="btnLimpar">Limpar</button>
+          </div>
+
+          <div class="note">O sistema preenche sugestões automáticas ao gerar a rotina.</div>
+        </form>
+      </div>
+
+      <!-- Resultado -->
+      <div class="panel" id="painelResultado">
+        <h2>Rotina Semanal</h2>
+        <div id="statusArea" class="note">Nenhuma rotina gerada ainda.</div>
+        <div id="loader" style="display:none">⏳ Gerando...</div>
+        <div id="cards" style="display:none">
+          <div class="resultado">
+            <div class="card">
+              <h3>Habilidades</h3>
+              <ul id="listaHabilidades"></ul>
+            </div>
+            <div class="card"><h3>Objeto</h3><p id="objeto">—</p></div>
+            <div class="card"><h3>Metodologia</h3><p id="metodologia">—</p></div>
+            <div class="card"><h3>Recursos</h3><p id="recursos">—</p></div>
+            <div class="card"><h3>Avaliação</h3><p id="avaliacao">—</p></div>
+          </div>
+          <button class="pdf-btn" id="btnPDF">Gerar PDF</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="rotina.js"></script>
+</body>
+</html>

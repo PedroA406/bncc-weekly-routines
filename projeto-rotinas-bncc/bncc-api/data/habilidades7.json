@@ -1,0 +1,112 @@
+[
+  {
+    "codigo": "EF07MA01",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos."  
+  },
+  {
+    "codigo": "EF07MA02",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam porcentagem, como os que lidam com acréscimos e decréscimos simples, utilizando estratégias pessoais, cálculo mental e calculadora no contexto de educação financeira, entre outros."  
+  },
+  {
+    "codigo": "EF07MA03",
+    "ano": "7º ano",
+    "descricao": "Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração."  
+  },
+  {
+    "codigo": "EF07MA04",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam operações com números inteiros."  
+  },
+  {
+    "codigo": "EF07MA05",
+    "ano": "7º ano",
+    "descricao": "Ler, interpretar e resolver um mesmo problema utilizando diferentes algoritmos."  
+  },
+  {
+    "codigo": "EF07MA06",
+    "ano": "7º ano",
+    "descricao": "Reconhecer que as resoluções de um grupo de problemas que têm a mesma estrutura podem ser obtidas utilizando os mesmos procedimentos."  
+  },
+  {
+    "codigo": "EF07MA07",
+    "ano": "7º ano",
+    "descricao": "Representar por meio de um fluxograma os passos utilizados para resolver um grupo de problemas."  
+  },
+  {
+    "codigo": "EF07MA08",
+    "ano": "7º ano",
+    "descricao": "Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador."  
+  },
+  {
+    "codigo": "EF07MA09",
+    "ano": "7º ano",
+    "descricao": "Utilizar, na resolução de problemas, a associação entre razão e fração, como a fração 2/3 para expressar a razão de duas partes de uma grandeza para três partes de outra grandeza."  
+  },
+  {
+    "codigo": "EF07MA10",
+    "ano": "7º ano",
+    "descricao": "Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica."  
+  },
+  {
+    "codigo": "EF07MA11",
+    "ano": "7º ano",
+    "descricao": "Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias."  
+  },
+  {
+    "codigo": "EF07MA12",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam as operações com números racionais."  
+  },
+  {
+    "codigo": "EF07MA13",
+    "ano": "7º ano",
+    "descricao": "Compreender a ideia de variável, representada por letra ou símbolo, para expressar relação entre duas grandezas, diferenciando-a da ideia de incógnita."  
+  },
+  {
+    "codigo": "EF07MA14",
+    "ano": "7º ano",
+    "descricao": "Classificar sequências em recursivas e não recursivas, reconhecendo que o conceito de recursão está presente não apenas na matemática, mas também nas artes e na literatura."  
+  },
+  {
+    "codigo": "EF07MA15",
+    "ano": "7º ano",
+    "descricao": "Utilizar a simbologia algébrica para expressar regularidades encontradas em sequências numéricas."  
+  },
+  {
+    "codigo": "EF07MA16",
+    "ano": "7º ano",
+    "descricao": "Reconhecer se duas expressões algébricas obtidas para descrever a regularidade de uma mesma sequência numérica são ou não equivalentes."  
+  },
+  {
+    "codigo": "EF07MA17",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam variação de proporcionalidade direta e de proporcionalidade inversa entre duas grandezas, utilizando sentença algébrica para expressar a relação entre elas."  
+  },
+  {
+    "codigo": "EF07MA18",
+    "ano": "7º ano",
+    "descricao": "Resolver e elaborar problemas que possam ser representados por equações polinomiais de 1º grau, redutíveis à forma ax + b = c, fazendo uso das propriedades da igualdade."  
+  },
+  {
+    "codigo": "EF07MA19",
+    "ano": "7º ano",
+    "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro."  
+  },
+  {
+    "codigo": "EF07MA20",
+    "ano": "7º ano",
+    "descricao": "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem."  
+  },
+  {
+    "codigo": "EF07MA21",
+    "ano": "7º ano",
+    "descricao": "Reconhecer e construir figuras obtidas por simetrias de translação, rotação e reflexão, usando instrumentos de desenho ou softwares de geometria dinâmica e vincular esse estudo a representações planas de obras de arte, elementos arquitetônicos, entre outros."  
+  },
+  {
+    "codigo": "EF07MA22",
+    "ano": "7º ano",
+    "descricao": "Construir circunferências, utilizando compasso, reconhecê-las como lugar geométrico e utilizá-las para fazer composições artísticas e resolver problemas que envolvam objetos equidistantes."  
+  }
+]

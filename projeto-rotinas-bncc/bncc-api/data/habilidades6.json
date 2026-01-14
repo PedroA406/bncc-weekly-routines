@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "EF06MA01",
+    "ano": "6º ano",
+    "descricao": "Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica."  
+  },
+  {
+    "codigo": "EF06MA02",
+    "ano": "6º ano",
+    "descricao": "Reconhecer o sistema de numeração decimal como fruto de um processo histórico, percebendo semelhanças e diferenças com outros sistemas de numeração, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal."  
+  },
+  {
+    "codigo": "EF06MA03",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos, com e sem uso de calculadora."  
+  },
+  {
+    "codigo": "EF06MA04",
+    "ano": "6º ano",
+    "descricao": "Reconhecer e compreender as regras do sistema de numeração decimal, para ler, escrever e ordenar números naturais e números racionais."  
+  },
+  {
+    "codigo": "EF06MA05",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam adição, subtração, multiplicação e divisão com números naturais e racionais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos, com e sem uso de calculadora."  
+  },
+  {
+    "codigo": "EF06MA06",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam as ideias de múltiplo e divisor, incluindo o mínimo múltiplo comum e o máximo divisor comum."  
+  },
+  {
+    "codigo": "EF06MA07",
+    "ano": "6º ano",
+    "descricao": "Reconhecer e compreender a relação entre as representações fracionária e decimal de um número racional, convertendo uma na outra quando for o caso."  
+  },
+  {
+    "codigo": "EF06MA08",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam porcentagens, utilizando estratégias pessoais, cálculo mental e calculadora."  
+  },
+  {
+    "codigo": "EF06MA09",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam o cálculo ou estimativa de perímetros e áreas de figuras planas desenhadas em malhas quadriculadas, com e sem uso de fórmulas."  
+  },
+  {
+    "codigo": "EF06MA10",
+    "ano": "6º ano",
+    "descricao": "Construir, com o uso de régua e compasso, triângulos e quadriláteros a partir de medidas dadas de lados, ângulos e diagonais."  
+  },
+  {
+    "codigo": "EF06MA11",
+    "ano": "6º ano",
+    "descricao": "Classificar figuras planas quanto aos lados e ângulos, reconhecendo propriedades comuns."  
+  },
+  {
+    "codigo": "EF06MA12",
+    "ano": "6º ano",
+    "descricao": "Identificar ângulos como a abertura entre duas semirretas de mesma origem e comparar suas amplitudes por meio de dobraduras, sobreposições e uso de transferidor."  
+  },
+  {
+    "codigo": "EF06MA13",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam medidas de tempo, massa, temperatura, comprimento e capacidade, envolvendo conversões simples entre unidades de medida mais usuais."  
+  },
+  {
+    "codigo": "EF06MA14",
+    "ano": "6º ano",
+    "descricao": "Planejar e construir, com e sem uso de tecnologias digitais, representações de dados em tabelas e em gráficos de colunas ou de barras, com base em dados coletados em pesquisa realizada pelos alunos."  
+  },
+  {
+    "codigo": "EF06MA15",
+    "ano": "6º ano",
+    "descricao": "Interpretar dados apresentados em tabelas e em gráficos de colunas ou de barras, com base em informações da realidade próxima."  
+  },
+  {
+    "codigo": "EF06MA16",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam a ideia de média aritmética simples, utilizando estratégias pessoais e cálculo mental."  
+  },
+  {
+    "codigo": "EF06MA17",
+    "ano": "6º ano",
+    "descricao": "Identificar regularidades em sequências numéricas e figurativas e construir essas sequências, com base em regras estabelecidas."  
+  },
+  {
+    "codigo": "EF06MA18",
+    "ano": "6º ano",
+    "descricao": "Reconhecer e utilizar a linguagem algébrica para expressar generalizações de padrões numéricos e geométricos."  
+  },
+  {
+    "codigo": "EF06MA19",
+    "ano": "6º ano",
+    "descricao": "Resolver e elaborar problemas que envolvam a escrita e interpretação de expressões numéricas e algébricas."  
+  },
+  {
+    "codigo": "EF06MA20",
+    "ano": "6º ano",
+    "descricao": "Compreender a ideia de variável e utilizá-la em contextos diversos, inclusive em fórmulas e funções."  
+  }
+]
