@@ -1,0 +1,144 @@
+{
+  "numeros": [
+    {
+      "tema": "Frações",
+      "palavras": ["fração", "frações", "numerador", "denominador", "equivalentes"],
+      "objeto": "Compreensão, comparação e operações envolvendo frações.",
+      "metodologia": "Exploração com materiais concretos, uso de figuras fracionárias, resolução de problemas contextualizados.",
+      "recursos": "Frações de papel, slides, lousa digital, exercícios impressos.",
+      "avaliacao": "Problemas envolvendo operações com frações, análise de desempenho em exercícios orientados."
+    },
+    {
+      "tema": "Números decimais",
+      "palavras": ["decimal", "decimais", "vírgula"],
+      "objeto": "Leitura, escrita e operações com números decimais.",
+      "metodologia": "Resolução de problemas aplicados ao cotidiano, comparação e ordenação, representação visual.",
+      "recursos": "Calculadora, material impresso, quadro.",
+      "avaliacao": "Atividades práticas e exercícios contextualizados envolvendo decimais."
+    },
+    {
+      "tema": "Porcentagem",
+      "palavras": ["porcentagem", "%", "percentual"],
+      "objeto": "Cálculo de porcentagem e interpretação de situações reais.",
+      "metodologia": "Problematização contextual, uso de tabelas, gráficos e situações do cotidiano.",
+      "recursos": "Calculadora, gráficos, planilhas, exemplos reais.",
+      "avaliacao": "Exercícios e problemas envolvendo cálculos percentuais e descontos."
+    },
+    {
+      "tema": "Múltiplos e divisores",
+      "palavras": ["múltiplo", "divisor", "primo", "composto"],
+      "objeto": "Identificação de múltiplos, divisores e números primos.",
+      "metodologia": "Atividades investigativas, listas numéricas, jogos de descoberta.",
+      "recursos": "Cartazes numéricos, quadro, fichas.",
+      "avaliacao": "Exercícios de identificação e problemas simples envolvendo MDC e MMC."
+    },
+    {
+      "tema": "Potenciação e radiciação",
+      "palavras": ["potência", "potenciação", "expoente", "raiz quadrada"],
+      "objeto": "Compreensão de potência e raiz, incluindo aplicações.",
+      "metodologia": "Exemplos guiados, manipulação algébrica, resolução de problemas.",
+      "recursos": "Quadro, calculadora, exercícios graduados.",
+      "avaliacao": "Atividades com cálculos de potências e raízes, problemas contextualizados."
+    }
+  ],
+
+  "algebra": [
+    {
+      "tema": "Expressões algébricas",
+      "palavras": ["expressão algébrica", "expressões", "monômio", "polinômio"],
+      "objeto": "Construção, simplificação e interpretação de expressões algébricas.",
+      "metodologia": "Modelagem matemática, prática guiada, contextualização.",
+      "recursos": "Quadro, materiais manipulativos, fichas de problemas.",
+      "avaliacao": "Simplificação, substituição de valores e resolução de expressões."
+    },
+    {
+      "tema": "Equações do 1º grau",
+      "palavras": ["equação", "1º grau", "primeiro grau", "incógnita", "igualdade"],
+      "objeto": "Resolução de equações de 1º grau e interpretação de significados.",
+      "metodologia": "Balança algébrica, resolução passo a passo, problemas contextualizados.",
+      "recursos": "Balança física ou digital, fichas, quadro.",
+      "avaliacao": "Resolução de equações e problemas do cotidiano."
+    },
+    {
+      "tema": "Equações do 2º grau",
+      "palavras": ["equação do segundo grau", "2º grau", "delta", "raízes"],
+      "objeto": "Resolução de equações do 2º grau utilizando diferentes métodos.",
+      "metodologia": "Exploração gráfica, cálculo por Bhaskara, interpretação de raízes.",
+      "recursos": "Geogebra, quadro, calculadora.",
+      "avaliacao": "Exercícios de resolução e problemas aplicados."
+    },
+    {
+      "tema": "Funções",
+      "palavras": ["função", "linear", "afim", "quadrática", "gráfico"],
+      "objeto": "Compreensão das funções e suas representações gráficas.",
+      "metodologia": "Construção de gráficos, análise de tabelas, tecnologia digital.",
+      "recursos": "Geogebra, planilhas, quadro.",
+      "avaliacao": "Interpretação de gráficos e construção de tabelas da função."
+    }
+  ],
+
+  "geometria": [
+    {
+      "tema": "Ângulos",
+      "palavras": ["ângulo", "ângulos", "agudo", "obtuso", "reto", "medições"],
+      "objeto": "Identificação, classificação e medição de ângulos.",
+      "metodologia": "Atividade prática com transferidor, construção de figuras e medição real.",
+      "recursos": "Transferidor, régua, figuras geométricas.",
+      "avaliacao": "Construção e classificação de ângulos em exercícios práticos."
+    },
+    {
+      "tema": "Polígonos",
+      "palavras": ["polígono", "triângulo", "quadrilátero", "lados", "vértices"],
+      "objeto": "Classificação e propriedades dos polígonos.",
+      "metodologia": "Construção manual de figuras, investigação guiada.",
+      "recursos": "Régua, dobraduras, cartolina, slides.",
+      "avaliacao": "Exercícios de classificação e problemas envolvendo perímetros."
+    },
+    {
+      "tema": "Perímetro e área",
+      "palavras": ["perímetro", "área", "m²", "comprimento"],
+      "objeto": "Cálculo de perímetro e área de figuras planas.",
+      "metodologia": "Problemas reais, uso de malhas quadriculadas, situações do cotidiano.",
+      "recursos": "Fita métrica, malha quadriculada, desenhos.",
+      "avaliacao": "Cálculos de perímetro e área e análise de situações reais."
+    },
+    {
+      "tema": "Volume e capacidade",
+      "palavras": ["volume", "capacidade", "m³", "litro", "cilindro", "paralelepípedo"],
+      "objeto": "Cálculo e comparação de volumes e capacidades.",
+      "metodologia": "Experimentos práticos com recipientes reais, modelagem geométrica.",
+      "recursos": "Recipientes diversos, régua, água.",
+      "avaliacao": "Problemas envolvendo cálculo de volume e capacidade."
+    }
+  ],
+
+  "tratamento_da_informacao": [
+    {
+      "tema": "Gráficos e tabelas",
+      "palavras": ["gráfico", "tabela", "dados", "estatística", "probabilidade"],
+      "objeto": "Leitura, interpretação e construção de gráficos e tabelas.",
+      "metodologia": "Coleta de dados reais, construção guiada, análise crítica.",
+      "recursos": "Planilhas, papel quadriculado, projetor.",
+      "avaliacao": "Construção de gráficos e interpretação de situações dadas."
+    },
+    {
+      "tema": "Média, moda e mediana",
+      "palavras": ["média", "moda", "mediana"],
+      "objeto": "Cálculo e interpretação de medidas de tendência central.",
+      "metodologia": "Atividade com dados reais, problemas práticos.",
+      "recursos": "Planilhas, quadro, exercícios.",
+      "avaliacao": "Cálculo e análise de medidas de tendência central."
+    }
+  ],
+
+  "sistema_metrico": [
+    {
+      "tema": "Medidas de tempo, massa e comprimento",
+      "palavras": ["metro", "tempo", "massa", "comprimento", "quilograma", "km"],
+      "objeto": "Conversão e comparação entre unidades de medida.",
+      "metodologia": "Atividades práticas, resolução de problemas, uso de objetos reais.",
+      "recursos": "Fita métrica, balança, relógio.",
+      "avaliacao": "Problemas de conversão e aplicação prática."
+    }
+  ]
+}

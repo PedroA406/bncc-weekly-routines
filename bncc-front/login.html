@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | Rotinas Semanais</title>
+  <link rel="stylesheet" href="css/auth.css">
+</head>
+<body>
+  <div class="auth-container">
+    <h1>Bem-vindo de volta 👋</h1>
+    <p class="subtitle">Acesse sua conta para continuar</p>
+
+    <form id="loginForm">
+      <input type="email" id="email" placeholder="E-mail" required>
+      <input type="password" id="senha" placeholder="Senha" required>
+      <button type="submit">Entrar</button>
+    </form>
+
+    <p class="redirect">
+      Ainda não tem conta? <a href="cadastro.html">Cadastre-se aqui</a>
+    </p>
+
+    <p id="mensagem" class="mensagem"></p>
+  </div>
+
+  <script src="js/login.js"></script>
+</body>
+</html>

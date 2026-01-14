@@ -1,0 +1,83 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #1f1f47, #3a0ca3);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  color: #fff;
+}
+
+.auth-container {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 2rem 3rem;
+  border-radius: 20px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 380px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: #cfcfcf;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+}
+
+button {
+  padding: 0.8rem;
+  background: #3a0ca3;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #7209b7;
+  transform: scale(1.03);
+}
+
+.redirect {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.redirect a {
+  color: #4cc9f0;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.redirect a:hover {
+  text-decoration: underline;
+}
+
+.mensagem {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #fca311;
+}
